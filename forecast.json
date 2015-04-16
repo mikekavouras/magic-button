@@ -1,0 +1,16 @@
+{
+  "eventName": "text_forecast",
+  "url": "https://api.parse.com/1/functions/text_forecast",
+  "coreID": "53ff6d066667574818431267",
+  "requestType": "POST",
+  "headers": {
+    "X-Parse-Application-Id" : "uvP56nMlrshRHFVxfm9ddhJEx6d9ZQXH2bNLi5q2",
+    "X-Parse-REST-API-Key" : "IfJxu1ecyCetQsvlejTtdRjBL80EqKBeXK6Ue8K6",
+    "Content-Type" : "application/json"
+  },
+  "query": null,
+  "json": null,
+  "auth": null,
+  "mydevices": true
+}
+
