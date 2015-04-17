@@ -1,0 +1,17 @@
+Spark Webhook
+https://gist.github.com/mikekavouras/4c6d8ed5063c3535a220
+
+Spark C++
+https://gist.github.com/mikekavouras/c20112f2f9992a61db92
+
+Parse Final
+https://gist.github.com/mikekavouras/fbafa553ec61b4a99ce7
+
+Parse API Function
+https://gist.github.com/mikekavouras/264b8e83db66432e4708
+
+Parse SMS
+https://gist.github.com/mikekavouras/f0446711eacadfe09842
+
+Parse Forecast
+https://gist.github.com/mikekavouras/025a0ff9d723e3b3ebcd

@@ -1,1 +1,4 @@
 button schematics/circuit - http://www.arduino.cc/en/tutorial/button
+twilio api - https://www.twilio.com/api
+forecast.io - https://developer.forecast.io
+parse cloud - https://parse.com
